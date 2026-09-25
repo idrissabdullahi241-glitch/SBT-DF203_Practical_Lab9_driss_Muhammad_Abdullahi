@@ -1,0 +1,3 @@
+   524947  13904 -rw-rw-r--   1 root     root     14234002 Sep 25 01:10 working/file_working
+   524958  12488 -rw-rw-r--   1 root     root     12784501 Sep 25 03:49 working/file_working-dec
+   524946  12540 -rw-rw-r--   1 root     root     12837660 Sep 25 01:10 working/file_working.xz
